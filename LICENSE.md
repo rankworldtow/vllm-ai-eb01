@@ -1,4 +1,4 @@
-# 
+# Inteligente vLLM scripts. Com integração com banco de dados vetorial e IA explicável — otimizado para máximo desempenho e eficiência.
 
 
 
